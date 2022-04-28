@@ -1,0 +1,22 @@
+{
+  "name": "@mergerg/testing-npm",
+  "version": "1.0.1",
+  "description": "Just testing making npm packages!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelsiz/testing-npm.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "mergerg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphaelsiz/testing-npm/issues"
+  },
+  "homepage": "https://github.com/raphaelsiz/testing-npm#readme"
+}
